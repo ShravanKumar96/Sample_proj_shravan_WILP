@@ -1,0 +1,19 @@
+{
+  "name": "sample_proj_shravan_wilp",
+  "version": "1.0.0",
+  "description": "Sample project for DevOps Assignment - WILP",
+  "main": "New_Dir/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShravanKumar96/Sample_proj_shravan_WILP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShravanKumar96/Sample_proj_shravan_WILP/issues"
+  },
+  "homepage": "https://github.com/ShravanKumar96/Sample_proj_shravan_WILP#readme"
+}
